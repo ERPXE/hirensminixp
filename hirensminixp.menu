@@ -1,0 +1,6 @@
+LABEL HIRENSMINIXP
+MENU LABEL ^Hiren's Mini XP 15.1
+KERNEL er/plugins/hirensminixp/startrom.0
+TEXT HELP
+                 Hiren's Boot CD Mini Windows XP.
+ENDTEXT
